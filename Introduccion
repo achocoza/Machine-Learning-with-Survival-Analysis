@@ -5,3 +5,35 @@ Survival Analysis is referred to statistical methods for analyzing survival data
 Survival data could be derived from laboratory studies of animals or from clinical and epidemiologic studies 
 
 Survival data could relate to outcomes for studying acute or chronic diseases
+
+
+Kaplan-Meier (KM)
+What type of Covariates or variables we will take?
+1. machine model
+2. machine age
+3. machine telemetry
+
+survival regression models to estimate the effects of such covariates on machine failure.
+
+The effects of covarites on a target variable
+
+are..
+
+failure
+hazard rate
+survival probabilities
+
+at the moment of build statitiscal models, we will se covariates of three primary data types 
+categorial
+ordinal
+and continuos
+
+ordinal is like the top ten of the best models of computers related with the long duration
+
+when talk about continuous refers when we use a filter related with the time.
+
+it's funny but they call the perform of additional transformation in covariates called "featuring engineering" 
+
+Telemetry is an automated communications process by which measurements and other data are collected at remote or inaccessible points and transmitted to receiving equipment for monitoring.[1] The word is derived from Greek roots: tele = remote, and metron = measure. Systems that need external instructions and data to operate require the counterpart of telemetry, telecommand.[2]
+
+Although the term commonly refers to wireless data transfer mechanisms (e.g., using radio, ultrasonic, or infrared systems), it also encompasses data transferred over other media such as a telephone or computer network, optical link or other wired communications like power line carriers. Many modern telemetry systems take advantage of the low cost and ubiquity of GSM networks by using SMS to receive and transmit telemetry data.
